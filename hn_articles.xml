@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+  <article>
+    <url>https://procreate.com/dreams</url>
+    <rank>1</rank>
+    <title>Procreate Dreams (procreate.com)</title>
+    <author>petecooper</author>
+    <points>137</points>
+  </article>
+  <article>
+    <url>https://bitbashing.io/async-rust.html</url>
+    <rank>2</rank>
+    <title>Maybe Rust isn’t a good tool for massively concurrent, userspace software (bitbashing.io)</title>
+    <author>mrkline</author>
+    <points>164</points>
+  </article>
+  <article>
+    <url>https://heatmap.news/economy/heirloom-carbon-microsoft-removal</url>
+    <rank>3</rank>
+    <title>Microsoft’s Remarkably Big Bet on Carbon-Absorbing Rocks (heatmap.news)</title>
+    <author>taylorbuley</author>
+    <points>45</points>
+  </article>
+  <article>
+    <url>https://emoji.fly.dev</url>
+    <rank>4</rank>
+    <title>Emoji Generator with AI (emoji.fly.dev)</title>
+    <author>vicgalle_</author>
+    <points>179</points>
+  </article>
+  <article>
+    <url>http://touchpianist.com/</url>
+    <rank>5</rank>
+    <title>Touch Pianist (touchpianist.com)</title>
+    <author>thunderbong</author>
+    <points>421</points>
+  </article>
+  <article>
+    <url>https://mtlynch.io/aardvarkd/</url>
+    <rank>6</rank>
+    <title>Aardvark'd: The Fog Creek Documentary, 18 Years Later (mtlynch.io)</title>
+    <author>mtlynch</author>
+    <points>144</points>
+  </article>
+  <article>
+    <url>https://www.ycombinator.com/companies/artie/jobs/PzBhYqV-founding-engineer</url>
+    <rank>7</rank>
+    <title>Artie (YC S23) is hiring a founding engineer (ycombinator.com)</title>
+    <author></author>
+    <points></points>
+  </article>
+  <article>
+    <url>https://www.ecu.edu.au/newsroom/articles/research/move-over-lithium-ion-zinc-air-batteries-a-cheaper-and-safer-alternative</url>
+    <rank>8</rank>
+    <title>Move over lithium-ion: Zinc-air batteries a cheaper and safer alternative (ecu.edu.au)</title>
+    <author>giuliomagnifico</author>
+    <points>31</points>
+  </article>
+  <article>
+    <url>https://github.com/oven-sh/bun/releases/tag/bun-v1.0.0</url>
+    <rank>9</rank>
+    <title>Bun v1.0.0 (github.com/oven-sh)</title>
+    <author>tuananh</author>
+    <points>256</points>
+  </article>
+  <article>
+    <url>https://arxiv.org/abs/2309.03409</url>
+    <rank>10</rank>
+    <title>Large Language Models as Optimizers. +50% on Big Bench Hard (arxiv.org)</title>
+    <author>og_kalu</author>
+    <points>43</points>
+  </article>
+  <article>
+    <url>https://growth.design/case-studies/apple-privacy-policy</url>
+    <rank>11</rank>
+    <title>Apple vs. Meta: The Illusion of Privacy (growth.design)</title>
+    <author>Summershard</author>
+    <points>246</points>
+  </article>
+  <article>
+    <url>https://www.birmingham.ac.uk/news/2023/bees-struggle-to-find-flowers-because-of-air-pollution</url>
+    <rank>12</rank>
+    <title>Bees struggle to find flowers because of air pollution (birmingham.ac.uk)</title>
+    <author>geox</author>
+    <points>116</points>
+  </article>
+  <article>
+    <url>https://oscarbenjamin.github.io/blog/czi/post1.html</url>
+    <rank>13</rank>
+    <title>Towards a New SymPy (oscarbenjamin.github.io)</title>
+    <author>asmeurer</author>
+    <points>53</points>
+  </article>
+  <article>
+    <url>https://journals.sagepub.com/doi/epub/10.1177/09637214221121570</url>
+    <rank>14</rank>
+    <title>Critical ignoring as a core competence for digital citizens (2022) (sagepub.com)</title>
+    <author>BryantD</author>
+    <points>80</points>
+  </article>
+  <article>
+    <url>https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html</url>
+    <rank>15</rank>
+    <title>PgBouncer is useful, important, and fraught with peril (jpcamara.com)</title>
+    <author>brunoluiz</author>
+    <points>117</points>
+  </article>
+  <article>
+    <url>https://www.robinsloan.com/newsletters/what-would-a-wizard-read/#walking</url>
+    <rank>16</rank>
+    <title>The thinking path (robinsloan.com)</title>
+    <author>footest</author>
+    <points>84</points>
+  </article>
+  <article>
+    <url>https://phys.org/news/2023-08-china-ancient-pipe-networks-communal.html</url>
+    <rank>17</rank>
+    <title>China's ancient water pipe networks show no evidence of a centralized authority (phys.org)</title>
+    <author>Stratoscope</author>
+    <points>190</points>
+  </article>
+  <article>
+    <url>https://apnews.com/article/spacex-starship-launch-accident-faa-a8d6cec63de579af4b6d5f040e51825d</url>
+    <rank>18</rank>
+    <title>SpaceX can't launch its giant rocket again until fixes are made, FAA says (apnews.com)</title>
+    <author>fnordpiglet</author>
+    <points>28</points>
+  </article>
+  <article>
+    <url>https://gist.github.com/osy/45e612345376a65c56d0678834535166</url>
+    <rank>19</rank>
+    <title>TPM provides zero practical security (gist.github.com)</title>
+    <author>osy</author>
+    <points>9</points>
+  </article>
+  <article>
+    <url>https://www.nature.com/articles/s41586-023-06502-w</url>
+    <rank>20</rank>
+    <title>Specialized astrocytes mediate glutamatergic gliotransmission in the CNS (nature.com)</title>
+    <author>bookofjoe</author>
+    <points>8</points>
+  </article>
+  <article>
+    <url>https://www.businessinsider.com/chatgpt-losing-hype-traffic-down-three-months-in-a-row-2023-9</url>
+    <rank>21</rank>
+    <title>ChatGPT is losing some of its hype, traffic falls for the third month in a row (businessinsider.com)</title>
+    <author>belter</author>
+    <points>10</points>
+  </article>
+  <article>
+    <url>https://howqueryengineswork.com/</url>
+    <rank>22</rank>
+    <title>How Query Engines Work (howqueryengineswork.com)</title>
+    <author>asicsp</author>
+    <points>243</points>
+  </article>
+  <article>
+    <url>https://rivet.ironcladapp.com/</url>
+    <rank>23</rank>
+    <title>Show HN: Rivet – open-source AI Agent dev env with real-world applications (ironcladapp.com)</title>
+    <author>gogwilt</author>
+    <points>72</points>
+  </article>
+  <article>
+    <url>https://about.honywen.com/publication/2023ase/#</url>
+    <rank>24</rank>
+    <title>A Study of Malicious Code in PyPI Ecosystem (honywen.com)</title>
+    <author>Dowwie</author>
+    <points>22</points>
+  </article>
+  <article>
+    <url>https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/</url>
+    <rank>25</rank>
+    <title>NSO group iPhone zero-click, zero-day exploit captured in the wild (citizenlab.ca)</title>
+    <author>ericzawo</author>
+    <points>1324</points>
+  </article>
+  <article>
+    <url>https://www.theregister.com/2023/09/08/tsmc_ai_chip_crunch/</url>
+    <rank>26</rank>
+    <title>TSMC warns AI chip crunch will last another 18 months (theregister.com)</title>
+    <author>rntn</author>
+    <points>101</points>
+  </article>
+  <article>
+    <url>https://www.techdirt.com/2023/09/08/fcc-proposes-voluntary-security-labels-for-internet-of-things-devices-most-companies-will-probably-ignore/</url>
+    <rank>27</rank>
+    <title>FCC Proposes Voluntary Security Labels for IoT Most Companies Will Likely Ignore (techdirt.com)</title>
+    <author>rntn</author>
+    <points>63</points>
+  </article>
+  <article>
+    <url>https://www.we-find-wildness.com/2011/08/ken-isaacs-how-to-build-your-own-living-structures/</url>
+    <rank>28</rank>
+    <title>How to build your own living structures (1974, 2011) (we-find-wildness.com)</title>
+    <author>conanxin</author>
+    <points>12</points>
+  </article>
+  <article>
+    <url>http://www.ws.binghamton.edu/fridrich/cube.html</url>
+    <rank>29</rank>
+    <title>My speed cubing page (binghamton.edu)</title>
+    <author>weinzierl</author>
+    <points>90</points>
+  </article>
+  <article>
+    <url>https://www.h2fly.de/</url>
+    <rank>30</rank>
+    <title>H2Fly – Breaking the Hydrogen Barrier (h2fly.de)</title>
+    <author>belter</author>
+    <points>16</points>
+  </article>
+</articles>
